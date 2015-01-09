@@ -31,7 +31,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 
 [Document1]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=Rugzak.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -47,7 +47,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document2]
-DocumentPath=PCB1.PcbDoc
+DocumentPath=Rugzak.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -61,10 +61,6 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-
-[GeneratedDocument1]
-DocumentPath=PCB1.PcbDoc.htm
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration

@@ -74,6 +74,10 @@ DocumentUniqueId=WGGKJFEC
 DocumentPath=ProjectOutputs\Design Rule Check - PCB1.html
 DItemRevisionGUID=
 
+[GeneratedDocument1]
+DocumentPath=PCB1.PcbDoc.htm
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
